@@ -1,4 +1,4 @@
-# Tableau-Public-for-Visualization-Stolen-Bikes-in-the-UK.
+# Tableau-Public-for-Visualization-of-Stolen-Bikes-in-the-UK.
 The repository consist of visualization and analysis created in Tableau.
 
 ## Dataset
