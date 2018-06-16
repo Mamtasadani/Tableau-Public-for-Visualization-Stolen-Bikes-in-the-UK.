@@ -17,7 +17,7 @@ There are three different plots used in this analysis :
 
 * **Line Chart** :This plot shows the thefts from *June 2014 to Sep 2017*.
 
-3* **Heat Maps**:This analysis provides the information about theft reported on monthly basis.In my analysis the maximum theft occured in *July to October* for 4 consecutive years.
+* **Heat Maps**:This analysis provides the information about theft reported on monthly basis.In my analysis the maximum theft occured in *July to October* for 4 consecutive years.
 
 *You can view final version of my Stolen Bike in UK Story by clicking [here](https://public.tableau.com/views/VisualizationandPublishtoTableauPublic-StolenBikesintheUK/Dashboard1?:embed=y&:display_count=yes&publish=yes) :*
 
