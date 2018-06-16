@@ -28,4 +28,4 @@ There are three different plots used in this analysis :
 * [MakeOverMonday](http://www.makeovermonday.co.uk/)
 * [View Analysis Report](https://public.tableau.com/profile/mamta7791#!/vizhome/VisualizationandPublishtoTableauPublic-StolenBikesintheUK/Dashboard1?publish=yes)
 * [Dataset](https://data.police.uk/data/)
-* [Online-Training] (https://www.tableau.com/learn/training)
+* [Online-Training](https://www.tableau.com/learn/training)
